@@ -1,0 +1,3 @@
+[submodule "lab2_motor_shield_example_gen2"]
+	path = lab2_motor_shield_example_gen2
+	url = https://github.com/adimehrotra/lab2_motor_shield_example_gen2
